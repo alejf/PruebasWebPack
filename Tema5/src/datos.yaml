@@ -1,0 +1,9 @@
+title: YAML Example
+owner:
+Hobbies:
+ name: Tom Preston Werner
+ organization: GitHub
+ bio: |-
+  GitHub CoFunder & CEO
+  Likes tates tots and beer.
+dob: 1979-05-27T07:32:.002
